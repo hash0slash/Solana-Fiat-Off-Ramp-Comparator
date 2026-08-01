@@ -102,13 +102,6 @@ public/
 - Fast settlement (10-30 minutes)
 - Web3 mode integration planned
 
-## Roadmap
-
-**Week 1:** Research and API documentation review
-**Week 2:** Backend aggregation logic and database setup
-**Week 3:** Frontend refinement and Solana wallet integration
-**Week 4:** Testing, deployment, and production launch
-
 ## Future Monetization
 
 - Small fee per successful conversion (0.1-0.5%)
